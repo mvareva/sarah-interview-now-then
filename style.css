@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Lato&family=Roboto+Mono&family=Share+Tech+Mono');
+
+.text-3 {
+    margin-left: 90px;
+    margin-right: auto;
+    max-width: 53ch;
+    font-family: 'Lato', sans-serif;
+}
+
+.header {
+    margin-left: 90px;
+    margin-right: auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+
+.text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 53ch;
+    font-family: 'Lato', sans-serif;
+}
+
+.header-1 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 27ch;
+    font-family: 'Amatic SC', cursive;
+    font-size: 58px;
+}
+
+.text-2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 52ch;
+    font-family: 'Lato', sans-serif;
+}
+
+.header-2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25ch;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 36px;
+}
+
+
+.btn {
+
+    border: none;
+    background-color: inherit;
+    font-size: 64px;
+    padding: 14px 28px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 55px;
+    margin-right: auto;
+
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #eee;}
+
+  .text-4 {
+    margin-left: 90px;
+    margin-right: auto;
+    max-width: 53ch;
+    font-family: 'Lato', sans-serif;
+    padding-top: 120px;
+}
+.text-5 {
+    margin-left: 90px;
+    margin-right: auto;
+    max-width: 53ch;
+    font-family: 'Lato', sans-serif;
+}
